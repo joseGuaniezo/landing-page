@@ -8,4 +8,5 @@ const Card = ({name, img, desc}) => {
     )
 }
 
+
 export default Card
